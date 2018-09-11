@@ -26,8 +26,8 @@ const IndexPage = () => (
     <p>More than everything above, I have the passion, love to help the community, volunteer at events and to participate in hackathons</p>
 
     <p>For more information or questions please send an email to <strong>lokanathchandrareddy@gmail.com</strong> </p>
-    <ul> <Link to="https://github.com/lokanathchandrareddy/">Check out my Github Profile </Link> </ul>
-    <ul><Link to="https://www.linkedin.com/in/lokanathchandrareddy">Check out my linkedin Profile </Link></ul>
+    <ul> <a href="https://github.com/lokanathchandrareddy/">Check out my Github Profile </a> </ul>
+    <ul><a href="https://www.linkedin.com/in/lokanathchandrareddy">Check out my linkedin Profile </a></ul>
   </div>
 )
 
