@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const IndexPage = () => (
   <div>
     <h1>Hi fellow coders</h1>
-    <p>Welcome to your new Gatsby site.</p>
+    <p>Thank you for visiting this page </p>
     <p>My name is <strong>Lokanath ChandraReddy.</strong> I am a recent Masters in Computer Science Graduate at <i>University of Massachusetts Lowell</i>. </p>
     <p> I am a <strong>freecodeprogrammer </strong>with a passion to work and explore web development.</p>
     <p> My Skill stack includes the following 
